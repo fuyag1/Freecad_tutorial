@@ -15,6 +15,6 @@ In this tutorial, you'll learn how to create 3D shapes starting with 2D sketches
 
 The way you create a body or a negative space needs to be based on a 2D sketch which can be created at different axes. To create a new project you need to first click on new, then on Create body. After that, you can click on “Create Sketch”. Then a canvas with the 2 2D axis and a center point will appear.
 
-### Toolbar:
+### Toolbar for sketches:
 
 ![toolbar](toolbar.png)
