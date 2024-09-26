@@ -21,7 +21,7 @@ The way you create a body or a negative space needs to be based on a 2D sketch w
 
 ### Toolbar function details:
 
-|Tool Name|detail|
+|Tool Name|Detail|
 |:-:|:-:|
 |dot ![dot](dot)|The dot product is a mathematical operation that takes two equal-length sequences of numbers (usually coordinate vectors) and returns a single number. In FreeCAD, this function can be applied to vectors to find the cosine of the angle between them, which is useful in many computational and engineering applications.|
 |line||
