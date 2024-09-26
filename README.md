@@ -23,6 +23,6 @@ The way you create a body or a negative space needs to be based on a 2D sketch w
 
 |Tool Name|Detail|
 |:-:|:-:|
-|dot ![dot](dot)|The dot is defined by a point, to use it click on the function first than flick on the canvas inorder to place the dot. It is often use for adding measurements for some specific shapes.|
+|dot <br /> ![dot](dot)|The dot is defined by a point, to use it click on the function first than flick on the canvas inorder to place the dot. It is often use for adding measurements for some specific shapes.|
 |line||
 |arc||
