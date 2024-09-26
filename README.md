@@ -19,7 +19,7 @@ The way you create a body or a negative space needs to be based on a 2D sketch w
 
 ![toolbar](toolbar.png)
 
-### Toolbar function details
+### Toolbar function details:
 
 |Tool Name|detail|
 |:-:|:-:|
