@@ -15,6 +15,8 @@ first go to this link and install the corrisponded Freecad verion for your compu
 
 Aftert that just open the file and go through the install process.
 
+## How to start a new project
+
 ## How to Create a Sketch:
 
 ### Introduction to sketch making:
