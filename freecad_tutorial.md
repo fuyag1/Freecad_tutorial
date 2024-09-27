@@ -8,6 +8,10 @@ In this tutorial, you'll learn how to create 3D shapes starting with 2D sketches
 
 ## How to Set Up FreeCad:
 
+to to this link to install Freecad for your computer.
+[link](https://www.freecad.org/downloads.php)
+
+
 
 ## How to Create a Sketch:
 
