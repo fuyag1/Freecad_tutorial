@@ -8,10 +8,12 @@ In this tutorial, you'll learn how to create 3D shapes starting with 2D sketches
 
 ## How to Set Up FreeCad:
 
-to to this link to install Freecad for your computer.
+first go to this link and install the corrisponded Freecad verion for your computer.
 [link](https://www.freecad.org/downloads.php)
 
+![download_page](download_page.png)
 
+Aftert that just open the file and go through the install process.
 
 ## How to Create a Sketch:
 
